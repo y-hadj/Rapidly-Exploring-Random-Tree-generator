@@ -17,6 +17,7 @@ The visualisation of this algorithm is done using the Pygame cross-platform libr
 The project includes the following components:
 
 - **Code Source** Two (2) Python files : 
+
 -[RRT_base](./RRT_base.py) that contains two modules containing functions for generation and visualisation of the tree. Please make sure both are executable before running them.
 
 -[RRT_main](./RRT_main.py) that integrates all the functions prepared in the other file to properly implement the RRT algorithm.
