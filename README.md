@@ -1,4 +1,4 @@
-# Rapidly Exploring Random Tree generator
+# Rapidly Exploring Random Tree Planner
 
 ## Table of Contents
 - [Introduction](#introduction)
